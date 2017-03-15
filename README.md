@@ -1,2 +1,0 @@
-# eUniverzitet
-Student Projekat
